@@ -5,9 +5,5 @@
   "devCommand": "next dev",
   "env": {
     "NODE_ENV": "production"
-  },
-  "deploymentProtection": {
-    "type": "vercel",
-    "enabled": false
   }
 }
